@@ -1,0 +1,2 @@
+./serverSideDeployAndRun.sh
+./clientSideDeployAndRun.sh
